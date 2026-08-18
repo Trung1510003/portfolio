@@ -70,7 +70,7 @@ export const projects: Project[] = [
       "Embedded control and hardware coordination",
       "Human-facing interaction workflow",
     ],
-    thumbnail: "/reception-robot.jpg",
+    thumbnail: "/portfolio/reception-robot.jpg",
     // Paste your team's exact YouTube URL here when available.
     youtubeUrl: "",
     linkLabel: "YouTube link pending",
